@@ -7,3 +7,4 @@ Azure Services used
 https://demofaqchatbot-bot-96f8.azurewebsites.net
 https://demofaqchatbot-bot-96f8.azurewebsites.net/api/messages
 https://demofaqchatbot.cognitiveservices.azure.com/
+![Screenshot (24)](https://user-images.githubusercontent.com/101646778/166962511-5b774c09-b5d4-4f3c-822b-8e43145f424a.png)
